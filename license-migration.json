@@ -1,0 +1,26 @@
+{
+  "schema": "metahumotonic-license-adoption/v1",
+  "date": "2026-10-07",
+  "repository": "gj3447/github-slideshow",
+  "base_commit": "8bd6b209d5945b495b530e22213839b2b4ae7b75",
+  "base_tree": "0e782b4a4d6821e394703dc9ee3af541b1251714",
+  "license": "LicenseRef-MetaHumotonic-1.2",
+  "license_path": "LICENSE",
+  "license_sha256": "dc4439a4bc7ea4cb913ba3a5a9ff679a1dc148a03f77a6deba82758c5a92b5a3",
+  "mode": "MHL_DEFAULT_WITH_PRESERVED_GRANTS",
+  "user_verbatim": "우리 모든 publci 을 메타휴모토닉 라이센스로 변경해줘 ㅇ",
+  "source_authority": "USER_PRIMARY",
+  "drafting_author": "OpenAI Codex",
+  "drafting_authority": "SECONDARY_AI",
+  "prior_grants_preserved": true,
+  "actual_hardware_access_granted": false,
+  "third_party_boundary": "The slideshow/template and its contributors retain the prior MIT grant. MHL does not claim ownership of GitHub or upstream template material.",
+  "preserved_files": [
+    {
+      "original_path": "LICENSE",
+      "path": "licenses/pre-mhl-2026-10-07/LICENSE",
+      "sha256": "436ad6b099d42007174d28a8c0db3f179b29f5726ea9945dafa72cd3544aa4f0"
+    }
+  ],
+  "publication_tracking": "This is the prepared adoption record. Git history and remote readback establish publication; no full copyright audit or legal review is claimed."
+}
